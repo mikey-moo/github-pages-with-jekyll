@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Moo test site
 
-I'm glad you are here. I plan to talk about ...
+Eventually, I'll understand GitHub enough to be able to build my very own static resume site. For now, with Jekyll, but hopefully eventually with Hugo/Go.
